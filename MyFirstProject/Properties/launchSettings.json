@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyFirstProject": {
+      "commandName": "Project",
+      "commandLineArgs": "Arnold 60 \"Terminator 2\"\r\n"
+    }
+  }
+}

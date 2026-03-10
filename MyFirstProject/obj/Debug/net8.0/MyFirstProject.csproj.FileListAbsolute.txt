@@ -1,0 +1,14 @@
+C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\bin\Debug\net8.0\MyFirstProject.exe
+C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\bin\Debug\net8.0\MyFirstProject.deps.json
+C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\bin\Debug\net8.0\MyFirstProject.runtimeconfig.json
+C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\bin\Debug\net8.0\MyFirstProject.dll
+C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\bin\Debug\net8.0\MyFirstProject.pdb
+C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\obj\Debug\net8.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\obj\Debug\net8.0\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\obj\Debug\net8.0\MyFirstProject.AssemblyInfo.cs
+C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\obj\Debug\net8.0\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\obj\Debug\net8.0\MyFirstProject.dll
+C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\obj\Debug\net8.0\refint\MyFirstProject.dll
+C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\obj\Debug\net8.0\MyFirstProject.pdb
+C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\obj\Debug\net8.0\MyFirstProject.genruntimeconfig.cache
+C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\obj\Debug\net8.0\ref\MyFirstProject.dll
