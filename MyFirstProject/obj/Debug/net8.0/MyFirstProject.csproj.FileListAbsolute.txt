@@ -17,3 +17,5 @@ C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\b
 C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\bin\Debug\net8.0\MyFirstLibrary.pdb
 C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\obj\Debug\net8.0\MyFirstProject.csproj.AssemblyReference.cache
 C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\obj\Debug\net8.0\MyFirstP.926B8CE4.Up2Date
+C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\bin\Debug\net8.0\EvaluateNums.dll
+C:\Users\ma7me\Documents\northcoders\intro-week\MyFirstProject1\MyFirstProject\bin\Debug\net8.0\EvaluateNums.pdb

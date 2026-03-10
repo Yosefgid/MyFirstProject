@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstProject", "MyFirstPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstLibrary", "MyFirstLibrary\MyFirstLibrary.csproj", "{E0F10982-EBF1-4194-87B3-B671CA5CE257}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvaluateNums", "EvaluateNums\EvaluateNums.csproj", "{659463FF-EBA6-4648-AEE0-7B5F91FC30F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E0F10982-EBF1-4194-87B3-B671CA5CE257}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0F10982-EBF1-4194-87B3-B671CA5CE257}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0F10982-EBF1-4194-87B3-B671CA5CE257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{659463FF-EBA6-4648-AEE0-7B5F91FC30F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659463FF-EBA6-4648-AEE0-7B5F91FC30F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659463FF-EBA6-4648-AEE0-7B5F91FC30F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659463FF-EBA6-4648-AEE0-7B5F91FC30F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
