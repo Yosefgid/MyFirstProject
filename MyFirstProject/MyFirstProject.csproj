@@ -12,4 +12,10 @@
     <ProjectReference Include="..\MyFirstLibrary\MyFirstLibrary.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="IsEven">
+      <HintPath>..\..\MySecondProjectSol\IsEven\bin\Debug\net8.0\IsEven.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

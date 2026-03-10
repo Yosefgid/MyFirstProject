@@ -9,7 +9,8 @@
       "MyFirstProject/1.0.0": {
         "dependencies": {
           "EvaluateNums": "1.0.0",
-          "MyFirstLibrary": "1.0.0"
+          "MyFirstLibrary": "1.0.0",
+          "IsEven": "1.0.0.0"
         },
         "runtime": {
           "MyFirstProject.dll": {}
@@ -30,6 +31,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "IsEven/1.0.0.0": {
+        "runtime": {
+          "IsEven.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -46,6 +55,11 @@
     },
     "MyFirstLibrary/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IsEven/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }
