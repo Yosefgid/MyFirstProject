@@ -1,9 +1,11 @@
 ﻿namespace MyFirstProject
 {
+    using MyFirstLibrary;
     internal class Program
     {
         static void Main(string[] args)
         {
+            MyFirstLibrary.Class1.Hello();
             Console.WriteLine(args[0]);
             Console.WriteLine(args[1]);
             Console.WriteLine(args[2]);
